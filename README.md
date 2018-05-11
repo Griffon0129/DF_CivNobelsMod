@@ -9,4 +9,4 @@ This will make the Humans an actual playable civ instead of just adding in a tok
 
 
 
-I know there are a lot of jokes about nobels, but I kind of like them so I want to add/modify them in dwarfs a bit.
+I know there are a lot of jokes about nobels, but I kind of like them so I want to add/modify them in dwarf's civ a bit.
