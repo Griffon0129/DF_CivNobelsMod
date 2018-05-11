@@ -4,7 +4,7 @@ This Dwarf Fortress mod will add usuable nobels to the Humans Civ and add more n
 
 
 
-This will make the Humans an actual playable civ instead of just adding in a token to allow you to play as them.
+This will make the Humans an actual playable civ instead of just adding in a token to allow you to play as them.  They will have the same nobels as dwarves with slightly different names.  The reason for this is if you play as the humans without adding any nobles you won't have any to appoint.  The reason this normally isn't a problem is because the nobles are generated dynamically in the game.
 
 
 
