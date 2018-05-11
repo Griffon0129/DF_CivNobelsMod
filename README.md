@@ -1,4 +1,4 @@
-# DF_CivNobelsMod
+# DF_CivNoblesMod
 This Dwarf Fortress mod will add usuable nobels to the Humans Civ and add more nobels to Dwarfs.
 
 
